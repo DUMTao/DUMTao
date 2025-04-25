@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is DUMTao and I'm another broke CS Student, from DR!</h2>
 
 ###
 
