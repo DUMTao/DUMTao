@@ -2,11 +2,15 @@
 <h1 align="center">Hi 👋, I'm Kamil Reyes</h1>
 <h3 align="center">A passionate broke college student from DR! (ᵒ̤̑ ₀̑ ᵒ̤̑)wow!*✰</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Python and extensive Java!**
+- 🌱 I’m currently learning **Software Engineering, Digital Forensics, Art History, and Python + SQL + Django!**
 
 - 📝 I regularly write articles on [/Life-Through-College-c2c14771035f479d908b0ae35ccfbabf?pvs=4](/Life-Through-College-c2c14771035f479d908b0ae35ccfbabf?pvs=4)
+<p>
+  Though I should probably start writing on it again. I haven't done it in a bit since I've been stuck trying to learn Django daily!
+</p>
 
-- 📫 How to reach me **ky.reyes2120@gmail.com**
+
+- 📫 How to reach me **ky.reyes2120@gmail.com or kreyes@mocs.flsouthern.edu (college so please lmk!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
